@@ -1,8 +1,8 @@
 {
-  "name": "semantic-ui-calendar-react-dehypnosis",
-  "version": "0.5.0",
+  "name": "semantic-ui-calendar-react-dehyp",
+  "version": "0.5.1",
   "description": "date/time picker built from semantic-ui elements",
-  "main": "dist-temporary/index.js",
+  "main": "dist/index.js",
   "scripts": {
     "test": "npx tape -r babel-register ./test/test*.js | tap-spec",
     "start": "npx webpack-dev-server",
